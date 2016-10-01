@@ -24,7 +24,7 @@ Nightmare @ http://n8m4re.de
 if you like to donate:  
 
 PayPal: 
-https://paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7C3V8Y85DCYP2  
+http://donate.n8m4re.de
 
 OR 
 
