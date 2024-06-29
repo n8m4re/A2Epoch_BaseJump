@@ -26,11 +26,6 @@ if you like to donate:
 PayPal: 
 http://donate.n8m4re.de
 
-OR 
-
-BitCoin: 
-19ebiM62Zq2cZyvhsNvhHdCBJoGNSBwFCK
-
 Thank You!
 
 included 3rdParty scripts / snippets
